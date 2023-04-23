@@ -8,3 +8,10 @@ date: "2023-04-20"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Las series de tiempo son una herramienta estadística muy útil para analizar datos que varían en el tiempo. Estas series representan una secuencia de valores numéricos en función del tiempo, lo que permite identificar patrones, tendencias y estacionalidades en los datos.
+
+Las series de tiempo se utilizan en diversas áreas, como finanzas, economía, meteorología, ingeniería, entre otras. Son especialmente útiles para predecir valores futuros y tomar decisiones informadas en base a tendencias históricas.
+
+Para analizar una serie de tiempo, es importante conocer los conceptos básicos como la estacionariedad, la autocorrelación, la función de autocorrelación y la función de autocorrelación parcial. Además, existen herramientas y técnicas específicas para el análisis de series de tiempo, como el modelo ARIMA y el modelo de suavizado exponencial.
+
+En resumen, las series de tiempo son una herramienta valiosa para el análisis y la predicción de datos que varían en el tiempo, y su aplicación puede ser muy útil en diferentes áreas.

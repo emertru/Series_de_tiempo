@@ -9,7 +9,7 @@ date: "2023-04-20"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Predicción de la venta de vehículos en Colombia
+### Justificación
 Para el desarrollo de la asignatura “Análisis de series temporales”, se trabajarán con datos mensuales relacionados con consumo, específicamente en bienes durables, con el objetivo de identificar tendencias económicas, cambios en los patrones de gasto y la evolución del poder adquisitivo de los hogares colombianos. Para esto se pronosticará la venta de vehículos nuevos en Colombia, teniendo en cuenta su evolución histórica y posible relación con otras variables que influyen de forma directa e indirecta en su evolución.
 
 Es importante resaltar que hacer un seguimiento activo a la venta de vehículos nuevos en el país cobra relevancia porque es una variable que aproxima el comportamiento del sector automotor y a su vez el consumo de los hogares, dos motores clave de la economía colombiana. El sector automotor, además, impulsa la innovación, la tecnología, la generación de empleo, la movilidad y el desarrollo de otros sectores económicos (a través de encadenamientos productivos). 

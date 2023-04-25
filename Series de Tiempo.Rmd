@@ -16,11 +16,17 @@ Para el desarrollo de la asignatura “análisis de series temporales”, se tra
 <img src="C:\Users\portatil\Desktop\Data\EME\Maestría Ciencia de Datos\Semestre 3\Visualización de Datos\datos_SeriesPrediccion.png">
 
 El análisis de series de tiempo de venta de vehículos puede proporcionar información valiosa sobre las tendencias y patrones en la demanda de vehículos. Aquí hay algunos pasos generales que se pueden seguir para analizar una serie de tiempo de venta de vehículos:
-•	Recopilar datos: Lo primero que se debe hacer es recopilar datos históricos sobre las ventas de vehículos en un período de tiempo determinado. Estos datos pueden incluir el número de vehículos vendidos por mes, trimestre, año, región geográfica, marca y modelo, entre otros.
-•	Visualizar los datos: Una vez que se han recopilado los datos, es importante visualizarlos en una gráfica de línea o en un diagrama de puntos para identificar patrones y tendencias. La visualización de los datos puede proporcionar una visión general de la serie de tiempo, permitiendo identificar los picos y los valles y los cambios en la tendencia a lo largo del tiempo.
+
+•	Recopilar datos: Lo primero que se debe hacer es recopilar datos históricos sobre las ventas de     vehículos en un período de tiempo determinado. Estos datos pueden incluir el número de vehículos    vendidos por mes, trimestre, año, región geográfica, marca y modelo, entre otros.
+
+•	Visualizar los datos: Una vez que se han recopilado los datos, es importante visualizarlos en una   gráfica de línea o en un diagrama de puntos para identificar patrones y tendencias. La              visualización de los datos puede proporcionar una visión general de la serie de tiempo,             permitiendo identificar los picos y los valles y los cambios en la tendencia a lo largo del tiempo.
+
 •	Análisis de estacionalidad: En el análisis de series de tiempo, es común que exista un patrón estacional en los datos, lo que significa que las ventas pueden ser más altas en ciertos meses o épocas del año. Identificar y modelar la estacionalidad puede ayudar a comprender las fluctuaciones en las ventas y mejorar las predicciones futuras.
+
 •	Identificar tendencias y patrones: Además de la estacionalidad, es importante identificar cualquier tendencia o patrón en los datos. Por ejemplo, puede haber una tendencia general de aumento o disminución de las ventas de vehículos en el tiempo, o puede haber patrones recurrentes a largo plazo que afectan las ventas.
+
 •	Realizar análisis de causalidad: El análisis de causalidad implica identificar los factores que pueden estar contribuyendo a las tendencias y patrones en los datos. Por ejemplo, pueden existir factores económicos, demográficos o de marketing que estén influyendo en la demanda de vehículos.
+
 •	Modelar y predecir: Finalmente, se puede utilizar la información obtenida del análisis de series de tiempo para modelar y predecir las ventas futuras de vehículos. Esto puede ayudar a las empresas a planificar su producción y comercialización y ajustar sus estrategias de negocio para maximizar las ventas y minimizar los costos.
 
 
